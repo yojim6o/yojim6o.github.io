@@ -1,11 +1,11 @@
 {
-    "name": "My Portfolio",
-    "short_name": "My Portfolio",
+    "name": "My portfolio",
+    "short_name": "",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Welcome to my portfolio!",
+    "description": "Welcome to my portfolio!.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
