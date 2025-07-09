@@ -73319,7 +73319,7 @@ s=s==null?r:s.toUpperCase()
 return new A.rN(new A.a7z(),p,new A.a7A(b),A.ei(A.a([o,B.MD,new A.hP(r,r,r,r,s==null?"En":s,r)],t.p),B.H,B.ay,B.E,0),r,t.nT)}}
 A.a7z.prototype={
 $1(a){var s=t.S
-return A.a([A.aze(new A.yG("English","/icons/en.svg",null),0,s),A.aze(new A.yG("Espa\xf1ol","/icons/es.svg",null),1,s)],t.BD)},
+return A.a([A.aze(new A.yG("English","assets/icons/en.svg",null),0,s),A.aze(new A.yG("Espa\xf1ol","assets/icons/es.svg",null),1,s)],t.BD)},
 $S:457}
 A.a7A.prototype={
 $1(a){var s=this.a,r=t.ii
@@ -73479,7 +73479,7 @@ A.anQ.prototype={
 $1(a){return A.dn(a,B.H,B.E,0)},
 $S:113}
 A.BX.prototype={
-J(a){return A.ei(A.a([new A.BW($.avS(),"/icons/ic-linkedin.svg",null),new A.BW($.avR(),"/icons/ic-github.svg",null)],t.p),B.H,B.di,B.E,0)}}
+J(a){return A.ei(A.a([new A.BW($.avS(),"assets/icons/ic-linkedin.svg",null),new A.BW($.avR(),"assets/icons/ic-github.svg",null)],t.p),B.H,B.di,B.E,0)}}
 A.BW.prototype={
 J(a){var s=null
 return A.ay4(s,s,s,A.ahb(this.d,new A.J0(A.X(a).ax.k3,B.lV,s,B.Il),s,s),s,s,new A.alW(this),s,s,s,s)}}
@@ -85179,8 +85179,8 @@ s($,"aUo","i4",()=>{var q=A.aQ(4292670881)
 return A.auD(A.ao(255,10,12,14),q)})
 s($,"aUn","a_u",()=>{var q=A.aQ(4292664565)
 return A.auD(A.ao(255,15,17,19),q)})
-r($,"aUp","avQ",()=>{var q="/icons/ic-mongo.svg",p=t.N,o=t.K,n=t.z
-return A.ay(["languages",A.ay(["java",A.ay(["icon","/icons/ic-java.svg","color",new A.a0i(),"description",new A.a0j()],p,o),"javascript",A.ay(["icon","/icons/ic-js.svg","color",new A.a0k(),"description",new A.a0v()],p,o),"sql",A.ay(["icon","/icons/ic-sql.svg","color",new A.a0D(),"description",new A.a0E()],p,o),"mongo",A.ay(["icon",q,"color",new A.a0F(),"description",new A.a0G()],p,o),"go",A.ay(["icon","/icons/ic-go.svg","color",new A.a0H(),"description",new A.a0I()],p,o),"rust",A.ay(["icon","/icons/ic-rust.svg","color",new A.a0J(),"description",new A.a0l()],p,o)],p,n),"frameworks",A.ay(["react",A.ay(["icon","/icons/ic-react.svg","color",new A.a0m(),"description",new A.a0n()],p,o),"spring",A.ay(["icon","/icons/ic-spring.svg","color",new A.a0o(),"description",new A.a0p()],p,o),"flutter",A.ay(["icon","/icons/ic-flutter.svg","color",new A.a0q(),"description",new A.a0r()],p,o)],p,n),"tools&others",A.ay(["vs code",A.ay(["icon","/icons/ic-code.svg","color",new A.a0s(),"description",new A.a0t()],p,o),"intellij",A.ay(["icon","/icons/ic-idea.svg","color",new A.a0u(),"description",new A.a0w()],p,o),"tailwind",A.ay(["icon","/icons/ic-tailwind.svg","color",new A.a0x(),"description",new A.a0y()],p,o),"postman",A.ay(["icon","/icons/ic-postman.svg","color",new A.a0z(),"description",new A.a0A()],p,o),"mongo compass",A.ay(["icon",q,"color",new A.a0B(),"description",new A.a0C()],p,o)],p,n)],p,t.a)})
+r($,"aUp","avQ",()=>{var q="assets/icons/ic-mongo.svg",p=t.N,o=t.K,n=t.z
+return A.ay(["languages",A.ay(["java",A.ay(["icon","assets/icons/ic-java.svg","color",new A.a0i(),"description",new A.a0j()],p,o),"javascript",A.ay(["icon","assets/icons/ic-js.svg","color",new A.a0k(),"description",new A.a0v()],p,o),"sql",A.ay(["icon","assets/icons/ic-sql.svg","color",new A.a0D(),"description",new A.a0E()],p,o),"mongo",A.ay(["icon",q,"color",new A.a0F(),"description",new A.a0G()],p,o),"go",A.ay(["icon","assets/icons/ic-go.svg","color",new A.a0H(),"description",new A.a0I()],p,o),"rust",A.ay(["icon","assets/icons/ic-rust.svg","color",new A.a0J(),"description",new A.a0l()],p,o)],p,n),"frameworks",A.ay(["react",A.ay(["icon","assets/icons/ic-react.svg","color",new A.a0m(),"description",new A.a0n()],p,o),"spring",A.ay(["icon","assets/icons/ic-spring.svg","color",new A.a0o(),"description",new A.a0p()],p,o),"flutter",A.ay(["icon","assets/icons/ic-flutter.svg","color",new A.a0q(),"description",new A.a0r()],p,o)],p,n),"tools&others",A.ay(["vs code",A.ay(["icon","assets/icons/ic-code.svg","color",new A.a0s(),"description",new A.a0t()],p,o),"intellij",A.ay(["icon","assets/icons/ic-idea.svg","color",new A.a0u(),"description",new A.a0w()],p,o),"tailwind",A.ay(["icon","assets/icons/ic-tailwind.svg","color",new A.a0x(),"description",new A.a0y()],p,o),"postman",A.ay(["icon","assets/icons/ic-postman.svg","color",new A.a0z(),"description",new A.a0A()],p,o),"mongo compass",A.ay(["icon",q,"color",new A.a0B(),"description",new A.a0C()],p,o)],p,n)],p,t.a)})
 s($,"aUk","aDA",()=>{var q=A.a2S(2022,9,1,0,0,0,0)
 return A.a([A.axL(new A.a06(),A.a2S(2024,6,1,0,0,0,0),q,"DAW"),A.axL(new A.a07(),null,A.a2S(2024,7,1,0,0,0,0),"Sopra Steria")],A.a4("r<Jb>"))})
 s($,"aUl","avP",()=>{var q=t.s
